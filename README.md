@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srihari20031&label=Profile%20views&color=0e75b6&style=flat" alt="srihari20031" /> </p>
 
-- 🌱 I’m currently learning **NextJS, Rust.**
+- 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **sriharivelayutham.28@gmail.com**
 
